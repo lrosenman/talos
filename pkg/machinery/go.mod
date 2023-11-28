@@ -22,9 +22,9 @@ require (
 	github.com/talos-systems/go-blockdevice v0.3.3
 	github.com/talos-systems/go-debug v0.2.1
 	github.com/talos-systems/net v0.3.2
-	google.golang.org/genproto v0.0.0-20220711132622-b6f31b0ceb50
-	google.golang.org/grpc v1.47.0
-	google.golang.org/protobuf v1.28.0
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
+	google.golang.org/grpc v1.56.3
+	google.golang.org/protobuf v1.30.0
 	gopkg.in/yaml.v3 v3.0.1
 	inet.af/netaddr v0.0.0-20220617031823-097006376321
 )
@@ -33,8 +33,8 @@ require (
 	github.com/containernetworking/cni v1.1.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gertd/go-pluralize v0.2.1 // indirect
-	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/google/go-cmp v0.5.8 // indirect
+	github.com/golang/protobuf v1.5.3 // indirect
+	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.3 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/josharian/native v1.0.0 // indirect
@@ -46,9 +46,9 @@ require (
 	github.com/ryanuber/go-glob v1.0.0 // indirect
 	go4.org/intern v0.0.0-20211027215823-ae77deb06f29 // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
+	golang.org/x/net v0.9.0 // indirect
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f // indirect
-	golang.org/x/sys v0.0.0-20220408201424-a24fb2fb8a0f // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.7.0 // indirect
+	golang.org/x/text v0.9.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
